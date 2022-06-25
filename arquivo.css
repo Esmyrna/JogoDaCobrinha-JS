@@ -1,0 +1,21 @@
+* {
+     background-color: gainsboro;
+     margin: auto;
+     box-sizing: border-box;
+
+}
+#snake {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+   
+}
+ 
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
